@@ -64,6 +64,10 @@ I picked 0.45 because dispatch cares about missed late loads more than headline 
 - Late trips skew toward later pickup, more stops, longer distance, heavier weight.
 - Logistic coefficients pointed the same way: storm, owner-ops, distance, traffic, Economy up; clear weather and fleet down.
 
+## AI Used
+
+- For Read me and Comments and test and resolving error AI was used 
+
 ## Ops ideas (from the notebook)
 
 1. Tighten Economy on storm/snow days when the window is already tight.
