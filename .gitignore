@@ -1,0 +1,34 @@
+# credentials
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# local notes / build helpers (not part of submission)
+proffesor-nots.txt
+professor-notes.txt
+*.local.md
+_run_analysis.py
+_build_notebook.py
+_make_slack_screenshot.py
+_analysis_out/
+
+# model artifacts if saved locally
+models/*.pkl
+models/*.joblib
+*.pkl
+*.joblib
